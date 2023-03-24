@@ -1,0 +1,20 @@
+{
+	"names": {
+		"servers": {
+
+			"server1": "12345678",
+		    "server2": "11345678",
+		    "server3": "12145678",
+		    "server4": "12315678",
+		    "server5": "12341678"
+
+		},
+		"switches": {
+
+			"mgmt": "abcdef",
+		    "tor1": "abcdeg",
+		    "tor2": "abcdeh"
+
+		}
+	}
+}
